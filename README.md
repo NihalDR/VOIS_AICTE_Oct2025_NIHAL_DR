@@ -79,7 +79,7 @@ jupyter lab
 
 ---
 
-## Conclusions & Business Recommendations
+## Conclusions 
 
 * Highlight the highest-value neighbourhoods for investment.
 * Consider targeting property types with high occupancy and above-average review scores.
